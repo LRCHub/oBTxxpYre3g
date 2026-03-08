@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Q？",
+  "base_artist": "Reol",
+  "createdAt": "2026-03-08T11:49:34.361057Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Susie-Q",
+      "artist": "James Burton",
+      "has_synced": false,
+      "path": "select/01_Susie-Q_James_Burton.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Yah Yah (feat. Royce Da 5'9\", Black Thought, Q-Tip & Denaun)",
+      "artist": "Eminem feat. Royce Da 5'9\", Black Thought, Q-Tip & Denaun",
+      "has_synced": true,
+      "path": "select/02_Yah_Yah_(feat._Royce_Da_5'9_,_Black_Thought,_Q-Tip_&_Denaun)_Eminem_feat._Royce_Da_5'9_,_Black_Thought,_Q-Tip_&_Denaun.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Yah Yah (feat. Royce Da 5'9\", Black Thought, Q-Tip & Denaun)",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/03_Yah_Yah_(feat._Royce_Da_5'9_,_Black_Thought,_Q-Tip_&_Denaun)_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bang Bang Bang (Featuring Q-Tip, MNDR)",
+      "artist": "Mark Ronson & The Business Intl.",
+      "has_synced": true,
+      "path": "select/04_Bang_Bang_Bang_(Featuring_Q-Tip,_MNDR)_Mark_Ronson_&_The_Business_Intl..lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "R U Still in 2 It? - DJ Q Remix",
+      "artist": "Mogwai",
+      "has_synced": false,
+      "path": "select/05_R_U_Still_in_2_It__-_DJ_Q_Remix_Mogwai.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "R U Still In 2 It? (DJ Q Remix)",
+      "artist": "Mogwai",
+      "has_synced": false,
+      "path": "select/06_R_U_Still_In_2_It__(DJ_Q_Remix)_Mogwai.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "U.R.A.Q.T (Clean)",
+      "artist": "M.I.A.",
+      "has_synced": true,
+      "path": "select/07_U.R.A.Q.T_(Clean)_M.I.A..lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "U.R.A.Q.T. (DJ C Remix)",
+      "artist": "M.I.A.",
+      "has_synced": false,
+      "path": "select/08_U.R.A.Q.T._(DJ_C_Remix)_M.I.A..txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "U.R.A.Q.T (Roll Deep Remix)",
+      "artist": "M.I.A.",
+      "has_synced": false,
+      "path": "select/09_U.R.A.Q.T_(Roll_Deep_Remix)_M.I.A..txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "U.R.A.Q.T.",
+      "artist": "M.I.A.",
+      "has_synced": true,
+      "path": "select/10_U.R.A.Q.T._M.I.A..lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Skew It on the Bar-B-Q",
+      "artist": "OutKast feat. Raekwon",
+      "has_synced": false,
+      "path": "select/11_Skew_It_on_the_Bar-B-Q_OutKast_feat._Raekwon.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rezonance Q / Someday (Kenny Hayes mix)",
+      "artist": "Ministry Of Sound",
+      "has_synced": false,
+      "path": "select/12_Rezonance_Q___Someday_(Kenny_Hayes_mix)_Ministry_Of_Sound.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Free (Let It Be) (Rezonance Q mix)",
+      "artist": "Stuart",
+      "has_synced": false,
+      "path": "select/13_Free_(Let_It_Be)_(Rezonance_Q_mix)_Stuart.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Stuart / Free (let it be) {Rezonance Q mix}",
+      "artist": "Ministry Of Sound",
+      "has_synced": false,
+      "path": "select/14_Stuart___Free_(let_it_be)_{Rezonance_Q_mix}_Ministry_Of_Sound.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "STOP (Feat. Q Da Fool)",
+      "artist": "IDK",
+      "has_synced": false,
+      "path": "select/15_STOP_(Feat._Q_Da_Fool)_IDK.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "BRAVO’! (feat. Turich Benjy, JayBee Lamahj, Swaggy Q, VonBeezy, & Peso Gordon)",
+      "artist": "Pink Siifu",
+      "has_synced": false,
+      "path": "select/16_BRAVO’!_(feat._Turich_Benjy,_JayBee_Lamahj,_Swaggy_Q,_VonBeezy,_&_Peso_Gordon)_Pink_Siifu.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Bosses and Workers (feat. Don Q and Trap Manny)",
+      "artist": "A Boogie Wit da Hoodie feat. Don Q & Trap Manny",
+      "has_synced": true,
+      "path": "select/17_Bosses_and_Workers_(feat._Don_Q_and_Trap_Manny)_A_Boogie_Wit_da_Hoodie_feat._Don_Q_&_Trap_Manny.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Bosses and Workers (feat. Don Q and Trap Manny)",
+      "artist": "A Boogie Wit da Hoodie; Don Q; Trap Manny",
+      "has_synced": true,
+      "path": "select/18_Bosses_and_Workers_(feat._Don_Q_and_Trap_Manny)_A_Boogie_Wit_da_Hoodie;_Don_Q;_Trap_Manny.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Money Sprung (feat. Don Q)",
+      "artist": "A Boogie Wit da Hoodie feat. Don Q",
+      "has_synced": true,
+      "path": "select/19_Money_Sprung_(feat._Don_Q)_A_Boogie_Wit_da_Hoodie_feat._Don_Q.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Money Sprung (feat. Don Q)",
+      "artist": "A Boogie Wit da Hoodie",
+      "has_synced": true,
+      "path": "select/20_Money_Sprung_(feat._Don_Q)_A_Boogie_Wit_da_Hoodie.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Q?",
+      "artist": "Reol",
+      "has_synced": false,
+      "path": "select/pl_01_Q_Reol.txt"
+    }
+  ]
+}
